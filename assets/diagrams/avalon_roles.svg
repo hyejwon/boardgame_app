@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+  <rect x="50" y="100" width="200" height="80" fill="#e3f2fd" stroke="#1e88e5" stroke-width="3"/>
+  <text x="70" y="140" font-size="20">멀린</text>
+  <text x="70" y="165" font-size="14">악을 봄 (오베론 제외)</text>
+
+  <rect x="50" y="220" width="200" height="80" fill="#e3f2fd" stroke="#1e88e5" stroke-width="3"/>
+  <text x="70" y="260" font-size="20">퍼시벌</text>
+  <text x="70" y="285" font-size="14">멀린/모르가나 후보</text>
+
+  <rect x="750" y="100" width="200" height="80" fill="#ffebee" stroke="#e53935" stroke-width="3"/>
+  <text x="770" y="140" font-size="20">암살자</text>
+  <text x="770" y="165" font-size="14">멀린 암살 가능</text>
+
+  <rect x="750" y="220" width="200" height="80" fill="#ffebee" stroke="#e53935" stroke-width="3"/>
+  <text x="770" y="260" font-size="20">모르가나</text>
+  <text x="770" y="285" font-size="14">퍼시벌 속임</text>
+
+  <rect x="750" y="340" width="200" height="80" fill="#ffebee" stroke="#e53935" stroke-width="3"/>
+  <text x="770" y="380" font-size="20">오베론</text>
+  <text x="770" y="405" font-size="14">악이지만 서로 모름</text>
+
+  <line x1="250" y1="140" x2="750" y2="140" stroke="black" stroke-width="2"/>
+  <text x="400" y="120" font-size="14">멀린 → 악 인지</text>
+
+  <line x1="250" y1="260" x2="750" y2="260" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="400" y="240" font-size="14">퍼시벌 → 멀린/모르가나</text>
+
+</svg>
